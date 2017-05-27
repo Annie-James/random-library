@@ -1,5 +1,4 @@
 # random-library
-random library
 import random
  
 print "Generate some random numbers :"
